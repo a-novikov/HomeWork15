@@ -1,0 +1,7 @@
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\obj\Debug\HomeWork_15.csproj.AssemblyReference.cache
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\obj\Debug\HomeWork_15.csproj.CoreCompileInputs.cache
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\bin\Debug\HomeWork_15.exe.config
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\bin\Debug\HomeWork_15.exe
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\bin\Debug\HomeWork_15.pdb
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\obj\Debug\HomeWork_15.exe
+C:\Users\swcat\source\repos\HomeWork_15\HomeWork_15\obj\Debug\HomeWork_15.pdb
